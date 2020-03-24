@@ -1,0 +1,6 @@
+C:\Users\micha\source\repos\TestHelper.10.C\TestHelper.10.C\obj\Debug\TestHelper.10.C.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\TestHelper.10.C\TestHelper.10.C\bin\Debug\TestHelper.10.C.exe.config
+C:\Users\micha\source\repos\TestHelper.10.C\TestHelper.10.C\bin\Debug\TestHelper.10.C.exe
+C:\Users\micha\source\repos\TestHelper.10.C\TestHelper.10.C\bin\Debug\TestHelper.10.C.pdb
+C:\Users\micha\source\repos\TestHelper.10.C\TestHelper.10.C\obj\Debug\TestHelper.10.C.exe
+C:\Users\micha\source\repos\TestHelper.10.C\TestHelper.10.C\obj\Debug\TestHelper.10.C.pdb
