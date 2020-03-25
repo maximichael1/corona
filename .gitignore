@@ -2,3 +2,9 @@
 TestHelper.10.C/Program.cs
 *.cs
 *.cs
+.vs/TestHelper.10.C/v16/Server/sqlite3/db.lock
+.vs/TestHelper.10.C/v16/Server/sqlite3/storage.ide
+.vs/TestHelper.10.C/v16/Server/sqlite3/storage.ide-shm
+.vs/TestHelper.10.C/v16/Server/sqlite3/storage.ide-wal
+TestHelper.10.C/obj/Debug/TestHelper.10.C.csprojAssemblyReference.cache
+TestHelper.10.C/Program.cs

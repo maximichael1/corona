@@ -6,16 +6,39 @@ namespace TestHelper._10.C
 {
     public class Program
     {
-        public static int SortDecending(int num)//not done >;(
+        //overvejer stadigvæk hvordan jeg skal gribe den her an
+        public static string ReverseCase(string str)
         {
-
+        }
+        public static int[] IndexOfCapitals(string str)
+        {
             List<int> r = new List<int>();
-            foreach (char i in num.ToString())
+            string str2 = "";
+            //imput Spageticode here to make it worke Better ^^ yesyes 
+            foreach (char a in str)
             {
-                r.Add(i);
+                if (a == '1' || a == '2' || a == '3' || a == '4' ||
+                    a == '5' || a == '6' || a == '7' || a == '8' ||
+                    a == '9' || a == '0' || a == '!' || a == '@' ||
+                    a == '#' || a == '¤' || a == '$' || a == ',' ||
+                    a == '.' || a == '~' || a == '{' || a == '=' ||
+                    a == '|' || a == '?')
+                    str2 += 'a';
+                else
+                    str2 += a;
             }
-            r.Sort();
-            return System.Convert.ToInt32(r);
+            char[] ex = str2.ToUpper().ToCharArray();
+
+            int n = -1;
+            foreach (char c in str)
+            {
+                n++;
+                if (c == ex[n])
+                    r.Add(n);
+            }
+
+            return r.ToArray();
+
         }
         public static string RemoveVowels(string str)
         {
