@@ -1,0 +1,55 @@
+﻿.boxLeft  {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+.boxMid {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+.boxTop {
+ 
+}
+
+
+header
+{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding 30px 10%;
+}
+
+body
+{
+    background-color: #393838;
+    color: #4884d4;
+}
+
+a 
+{
+    color: #4884d4;
+    font-size: 32px;
+    text-decoration: none;
+    margin-right: 22px;
+    transition: 0.25s;
+}
+    .page_cv
+    {
+        font-size 64px;
+        color : #ffffff;
+
+    }
+    a:hover
+    {
+        font-size: 40px;
+        color: #c1bebe; 
+        transition: 0.5s;
+    }
